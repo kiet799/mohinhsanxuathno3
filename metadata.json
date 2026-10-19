@@ -1,0 +1,6 @@
+{
+  "name": "Mô hình 3D Quy trình Haber - Tổng hợp Amoniac",
+  "description": "Mô phỏng 3D tương tác công nghiệp chi tiết quy trình Haber-Bosch tổng hợp Amoniac (NH3) với hệ thống tuần hoàn khí, kiểm soát nhiệt độ, áp suất và nguyên lý Le Chatelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
